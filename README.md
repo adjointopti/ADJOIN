@@ -1,8 +1,9 @@
 
-# Texture Optimization
+# Texture Optimization [Home Page](https://adjointopti.github.io/adjoin.github.io/)
 
 ## Installation
 To implement our code, a pytorch3d environment should be installed:
+
 '''
 conda env create -f environment.yml
 conda activate pytorch3d
