@@ -1,0 +1,10 @@
+# hwgen_simul_with_Lapla
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/yosee/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/bear/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/bingpianshangping/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/dradon/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/goat/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/huaping/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/luyiji/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/RedFlyDragon/loss_log.txt' 
+python Plot_curve_from_loss_log.py '/media/eckert/My Passport/002PaperResults/Ablation/Results_strategy/hwgen_simul_with_Lapla/weiNi/loss_log.txt'
